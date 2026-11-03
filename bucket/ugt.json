@@ -1,0 +1,17 @@
+{
+  "architecture": {
+    "64bit": {
+      "hash": "5a72d7fb810bd0cf06d45c464316e337a5d709f384519ba9422a571614c4867e",
+      "url": "https://github.com/auscaster/ugt/releases/download/v0.2.1/ugt-windows-amd64.exe#/ugt.exe"
+    },
+    "arm64": {
+      "hash": "c38677eaa9ecc9b709dbef5facf8338f7fe9872f21a738359d7e1b0a0a1c26ce",
+      "url": "https://github.com/auscaster/ugt/releases/download/v0.2.1/ugt-windows-arm64.exe#/ugt.exe"
+    }
+  },
+  "bin": "ugt.exe",
+  "description": "Get GitHub projects running on your computer, with your AI app",
+  "homepage": "https://usegithubthing.com",
+  "license": "Apache-2.0",
+  "version": "0.2.1"
+}
