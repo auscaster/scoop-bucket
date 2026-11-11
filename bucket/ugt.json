@@ -1,17 +1,17 @@
 {
   "architecture": {
     "64bit": {
-      "hash": "bce16ff8bc308031dfca8ded769430b549075e9c93ef6bca686e205f419e3aa4",
-      "url": "https://github.com/usegeekthing/ugt/releases/download/v0.3.2/ugt-windows-amd64.exe#/ugt.exe"
+      "hash": "a64071139819572ce60fed432e3b81a6ee8ec953dac562da4d52fd8e2fdd12bf",
+      "url": "https://github.com/usegeekthing/ugt/releases/download/v0.3.3/ugt-windows-amd64.exe#/ugt.exe"
     },
     "arm64": {
-      "hash": "b0f4f52fd43c7d850156d1fdd1258c2613eaea08d628f990a64e263220b45f62",
-      "url": "https://github.com/usegeekthing/ugt/releases/download/v0.3.2/ugt-windows-arm64.exe#/ugt.exe"
+      "hash": "ad7d1041346f82716b616375b68ab18062de7470d5afe0d19182588f7c46cfa3",
+      "url": "https://github.com/usegeekthing/ugt/releases/download/v0.3.3/ugt-windows-arm64.exe#/ugt.exe"
     }
   },
   "bin": "ugt.exe",
   "description": "Get open-source GitHub projects running on your computer, with your AI app",
   "homepage": "https://usegeekthing.com",
   "license": "Apache-2.0",
-  "version": "0.3.2"
+  "version": "0.3.3"
 }
