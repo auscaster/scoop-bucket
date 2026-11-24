@@ -1,16 +1,16 @@
 {
-  "version": "2.5.10",
+  "version": "2.5.11",
   "description": "Deterministic protocol for multi-phase agent work.",
   "homepage": "https://auscaster.com/scafld",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/auscaster/scafld/releases/download/v2.5.10/scafld_2.5.10_windows_amd64.exe#/scafld.exe",
-      "hash": "e396e159bbf2bb7b3c49a0ad94edfd41d3908ba5a4b5759bd7340470bc803d51"
+      "url": "https://github.com/auscaster/scafld/releases/download/v2.5.11/scafld_2.5.11_windows_amd64.exe#/scafld.exe",
+      "hash": "174f85af79ff6e86120e4edbc46cf01c48693fcb36be6f27275f39580446952f"
     },
     "arm64": {
-      "url": "https://github.com/auscaster/scafld/releases/download/v2.5.10/scafld_2.5.10_windows_arm64.exe#/scafld.exe",
-      "hash": "03d9884c60f40d2cb1880ca2af9345f33c5d3b854db06df4034ad006b7401f70"
+      "url": "https://github.com/auscaster/scafld/releases/download/v2.5.11/scafld_2.5.11_windows_arm64.exe#/scafld.exe",
+      "hash": "b6da4a58ad60c6aecd5e31ae484bd56d576ac17ee2bd3fdcb8547a0ef72f4925"
     }
   },
   "bin": "scafld.exe",
